@@ -3,7 +3,7 @@ Diciplina: Desenvolvimento de Aplicações
 Turma: TCTG241CNTDEV
 */
 
-public class exercicio3 {
+public class exercicio3_lista2 {
         public static void main(String[] args) {
             System.out.println("Números de 1 a 1000 que, quando divididos por 11, têm resto 5:");
             
